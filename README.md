@@ -1,6 +1,6 @@
 ### Hi! I'm Victor Lord 😁🤚
 
-- 🔭 I’m currently working at: Dell 
+- 🔭 I’m currently working at: BAT Brasil 
 - 🌱 I’m currently learning: Phyton‚ SQL‚ Java
 - 📫 How to reach me: victor_oliveira_lord@hotmail.com or on my LinkedIn
 
