@@ -1,7 +1,7 @@
 ### Hi! I'm Victor Lord 😁🤚
 
-- 🔭 I’m currently working at: BAT Brasil 
-- 🌱 I’m currently learning: Python‚ PL/SQL
+- 🔭 I’m currently working at:
+- 🌱 I’m currently learning: Python and Javascript
 - 📫 How to reach me: victor_oliveira_lord@hotmail.com or on my LinkedIn
 
 
