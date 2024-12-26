@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working at: Quero-Quero S.A
 - 🌱 I’m currently learning: Python
-- 📫 How to reach me: victor_oliveira_lord@hotmail.com or on my LinkedIn
 
 
 ### Connect With Me:
