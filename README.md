@@ -1,7 +1,7 @@
 ### Hi! I'm Victor Lord 😁🤚
 
 - 🔭 I’m currently working at: Quero-Quero S.A
-- 🌱 I’m currently learning: Python and Javascript
+- 🌱 I’m currently learning: Python
 - 📫 How to reach me: victor_oliveira_lord@hotmail.com or on my LinkedIn
 
 
