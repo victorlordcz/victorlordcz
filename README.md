@@ -1,7 +1,7 @@
 ### Hi! I'm Victor Lord 😁🤚
 
-- 🔭 I’m currently working at: Quero-Quero S.A
-- 🌱 I’m currently learning: Python
+- 🔭 I’m currently working at: Dufrio
+- 🌱 I’m currently learning: Databricks
 
 
 ### Connect With Me:
