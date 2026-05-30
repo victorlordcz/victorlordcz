@@ -1,7 +1,7 @@
 ### Hi! I'm Victor Lord 😁🤚
 
-- 🔭 I’m currently working at: Dufrio
-- 🌱 I’m currently learning: Databricks
+- 🔭 I’m currently working at: Galvão Advogados
+- 🌱 I’m currently learning: Typescript
 
 
 ### Connect With Me:
@@ -15,5 +15,3 @@
 </div>
 
 ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlordcz&layout=compact)](https://github.com/victorlordcz/github-readme-stats)
